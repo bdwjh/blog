@@ -7,7 +7,7 @@
     </h1>
     <p class="lead">
         你现在所看到的是
-        <a btn="" btn-lg="" btn-success"="" href="#" role="button">
+        <a btn="" btn-lg="" btn-success="" href="{{ route('user.signup') }}" role="button">
             现在注册
         </a>
     </p>
